@@ -35,16 +35,12 @@ And **[twenty-plus more, most of them live →](https://kofiamanfo.dev/portfolio
 
 ## 🪜 Not just behind a desk
 
-<img src="assets/fieldwork.webp" alt="Kofi in a hard hat wiring a network installation on a container roof" width="38%" align="right">
-
 Two years as IT Manager for a mining services firm in Tarkwa: servers, networks, storage,
 and a Starlink rollout across **four sites**. When something I shipped breaks, I am the one
 they call. Sometimes that means a keyboard; sometimes it means a hard hat and a ladder. 👷
 
 The unglamorous half of the job is the half that keeps everything standing: IT policy,
 functional requirements, documentation, and systems that survive their builders.
-
-<br clear="right">
 
 ## ✍️ Writing
 
